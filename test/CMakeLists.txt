@@ -1,6 +1,6 @@
 #/test/CMakeLists.txt
 
-#List of all test sourses
+#List of all test sources
 set(SOURCES
 	test.cpp
 )
